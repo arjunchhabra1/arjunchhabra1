@@ -9,7 +9,7 @@ Computer Science + Artificial Intelligence double major at **Purdue University**
 #### Projects
 
 **[Kafka Atlas](https://github.com/arjunchhabra1/kafka-atlas)** · *Python, Neo4j, Postgres + pgvector, LangChain, FastAPI, Docker*  
-An engineering knowledge assistant over three years of the Apache Kafka developer mailing list (~12k emails, ~9k Jira events). Compares knowledge-graph retrieval against a vector RAG baseline on single-hop and multi-hop questions, with LLM-based extraction and entity resolution. On 176 held-out multi-hop questions, graph retrieval delivered complete evidence 11 points more often than vector search (45% vs 34%).
+An engineering knowledge assistant over three years of the Apache Kafka developer mailing list (~12k emails, ~9k Jira events). Compares knowledge-graph retrieval against a vector RAG baseline on single-hop and multi-hop questions, with LLM-based extraction and entity resolution. On 176 held-out multi-hop questions, graph retrieval delivered complete evidence 11 points more often than vector search.
 
 **[WordLens AR](https://github.com/arjunchhabra1/wordlens_ar)** · *Swift, ARKit, Vision, Firebase*  
 An iOS assistive-reading app for people with dyslexia: scans text with the camera, reads it aloud, suggests spelling corrections from a 740k-word dictionary (trie + edit distance), and shows 3D models of words in augmented reality.
