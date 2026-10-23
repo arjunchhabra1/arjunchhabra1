@@ -8,7 +8,7 @@ Computer Science + Artificial Intelligence double major at **Purdue University**
 
 #### Projects
 
-**Kafka Atlas** · *Python, Neo4j, Postgres + pgvector, LangChain, FastAPI, Docker, GCP*  
+**[Kafka Atlas](https://github.com/arjunchhabra1/kafka-atlas)** · *Python, Neo4j, Postgres + pgvector, LangChain, FastAPI, Docker, GCP*  
 An engineering knowledge assistant over three years of the Apache Kafka developer mailing list (~12k emails, ~9k Jira events). Compares knowledge-graph retrieval against a vector RAG baseline on single-hop and multi-hop questions, with LLM-based extraction, entity resolution, a held-out question set, and paired bootstrap confidence intervals.
 
 **[WordLens AR](https://github.com/arjunchhabra1/wordlens_ar)** · *Swift, ARKit, Vision, Firebase*  
