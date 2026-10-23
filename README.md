@@ -1,6 +1,6 @@
 ### I'm Arjun 
 
-Computer Science + Artificial Intelligence double major at **Purdue University**, interested in **software engineering, machine learning, and applied AI**. I like building systems end to end, through data pipelines, retrieval and LLM applications, and the evaluation that shows whether they actually work.
+Computer Science + Artificial Intelligence double major at **Purdue University**, interested in **software engineering, machine learning, and applied AI**. I've built everything from ML research pipelines to iOS apps to backend services.
 
 **Looking for:** SWE / ML / AI internships
 
