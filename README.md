@@ -21,10 +21,11 @@ An iOS assistive-reading app for people with dyslexia: scans text with the camer
 
 #### Tech
 
-- **Languages:** Python · C++ · C · Java · Swift · JavaScript · SQL
-- **ML / AI:** PyTorch · computer vision (pose estimation) · LLM applications · retrieval-augmented generation · knowledge graphs · evaluation
-- **Data & backend:** PostgreSQL · pgvector · Neo4j · FastAPI · Firebase
-- **Infra & tools:** Docker · GitHub Actions · Git · CMake · GoogleTest
+- **Languages:** Python · C++ · C · C# · Java · R · Swift · JavaScript · SQL
+- **ML / AI:** PyTorch · Scikit-learn · Hugging Face · Pandas · NumPy · SciPy · computer vision · LLM applications · RAG · knowledge graphs
+- **Web & backend:** React · Node.js · Express · Flask · FastAPI
+- **Data:** PostgreSQL · pgvector · Neo4j · MongoDB · Redis · Kafka · Cloud Firestore
+- **Infra & tools:** Docker · Kubernetes · GitHub Actions · Git · CMake · GoogleTest
 
 ---
 
