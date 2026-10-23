@@ -1,6 +1,6 @@
 ### I'm Arjun 
 
-Computer Science + Artificial Intelligence double major at **Purdue University**, interested in **software engineering, machine learning, and applied AI**. I like building systems end to end, through data pipelines, retrieval and LLM applications, and the evaluation that shows whether they actually work.
+Computer Science (ML concentration) + Artificial Intelligence double major at **Purdue University**. I build ML systems end to end, from the data pipeline to the evaluation that shows whether they work: pose estimation for robot-assisted herding at the ARIES Lab, GPU-accelerated spatial single-cell analysis at Frederick National Laboratory, sentiment-driven portfolio models at ML@Purdue, and graph RAG over developer mailing lists.
 
 **Looking for:** SWE / ML / AI internships
 
@@ -18,8 +18,8 @@ An iOS assistive-reading app for people with dyslexia: scans text with the camer
 
 #### Tech
 
-- **Languages:** Python · Swift · C/Objective-C · SQL
-- **ML / AI:** LLM applications · retrieval-augmented generation · embeddings · knowledge graphs · evaluation
+- **Languages:** Python · C++ · C · Java · Swift · JavaScript · SQL
+- **ML / AI:** PyTorch · computer vision (pose estimation) · LLM applications · retrieval-augmented generation · knowledge graphs · evaluation
 - **Data & backend:** PostgreSQL · pgvector · Neo4j · FastAPI · Firebase
 - **Infra & tools:** Docker · Google Cloud (Cloud Run, Cloud SQL) · GitHub Actions · Git
 
