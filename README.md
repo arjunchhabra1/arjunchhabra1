@@ -1,6 +1,6 @@
 ### I'm Arjun 
 
-Computer Science (ML concentration) + Artificial Intelligence double major at **Purdue University**. I build ML systems end to end, from the data pipeline to the evaluation that shows whether they work: pose estimation for robot-assisted herding at the ARIES Lab, GPU-accelerated spatial single-cell analysis at Frederick National Laboratory, sentiment-driven portfolio models at ML@Purdue, and graph RAG over developer mailing lists.
+Computer Science + Artificial Intelligence double major at **Purdue University**, interested in **software engineering, machine learning, and applied AI**. I like building systems end to end, through data pipelines, retrieval and LLM applications, and the evaluation that shows whether they actually work.
 
 **Looking for:** SWE / ML / AI internships
 
