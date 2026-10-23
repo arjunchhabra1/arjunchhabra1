@@ -22,3 +22,9 @@ An iOS assistive-reading app for people with dyslexia: scans text with the camer
 - **ML / AI:** LLM applications · retrieval-augmented generation · embeddings · knowledge graphs · evaluation
 - **Data & backend:** PostgreSQL · pgvector · Neo4j · FastAPI · Firebase
 - **Infra & tools:** Docker · Google Cloud (Cloud Run, Cloud SQL) · GitHub Actions · Git
+
+---
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/arjun-chhabra-bb815243a) · [chhabra9@purdue.edu](mailto:chhabra9@purdue.edu)
